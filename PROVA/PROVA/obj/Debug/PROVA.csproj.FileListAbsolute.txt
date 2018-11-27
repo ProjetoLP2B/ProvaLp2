@@ -1,0 +1,15 @@
+c:\users\lb20-17\documents\visual studio 2013\Projects\PROVA\PROVA\bin\Debug\PROVA.exe.config
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\bin\Debug\PROVA.exe
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\bin\Debug\PROVA.pdb
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.csprojResolveAssemblyReference.cache
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmMenu.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmHardware.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.Properties.Resources.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmSoftware.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmTeste.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.csproj.GenerateResource.Cache
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.exe
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.pdb
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmTesteHierarchical.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmTesteScaffolding.resources
+C:\Users\lb20-17\Documents\Visual Studio 2013\Projects\PROVA\PROVA\obj\Debug\PROVA.frmCut.resources
